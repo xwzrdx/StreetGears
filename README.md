@@ -2,7 +2,7 @@
 
 Server Emulator for StreetGears
 
-Shoutout to the main guy of Project StreetGears (revival project) for telling me I was accidentally reversing his modified client instead of the original LOL.
+
 
 
 # Screenshots
