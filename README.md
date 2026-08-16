@@ -1,6 +1,8 @@
 # StreetGears
 
 Server Emulator for StreetGears
+Unpack & Repack Resource files.
+English translation for the client. Because for some reason the game doesn't support English by default lol.
 
 
 
