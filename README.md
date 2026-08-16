@@ -1,7 +1,7 @@
 # StreetGears
 
-* Server Emulator for StreetGears
-* Unpack & Repack Resource files.
+Server Emulator & Resource Unpacker/Repacker
+
 
 # Client Fixes
 * Dutch & English client translations.
