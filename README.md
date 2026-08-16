@@ -4,10 +4,10 @@ Server Emulator for StreetGears
 Unpack & Repack Resource files.
 
 # Client Fixes
-Dutch & English client translations.
-Unlimited FPS (Instead of 60 FPS)
-Window Mode
-Resolution Changer
+* Dutch & English client translations.
+* Unlimited FPS (Instead of 60 FPS)
+* Window Mode
+* Resolution Changer
 
 
 
