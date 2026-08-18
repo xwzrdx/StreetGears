@@ -8,7 +8,7 @@ Server Emulator & Resource Unpacker/Repacker
 * Unlimited FPS (Instead of 30 FPS)
 * Window Mode
 * Resolution Changer
-
+* Keybinds Changer
 
 
 # Screenshots
