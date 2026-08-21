@@ -6,7 +6,6 @@ Server Emulator & Resource Unpacker/Repacker
 # Client Fixes
 * Dutch & English client translations.
 * Unlimited FPS (Instead of 30 FPS)
-* Window Mode
 * Resolution Changer
 * Keybinds Changer
 
