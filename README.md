@@ -24,3 +24,4 @@ Server Emulator & Resource Unpacker/Repacker
 <img width="431" height="117" alt="image" src="https://github.com/user-attachments/assets/063935a7-ba53-4b84-ae5f-2e13c5a3813e" />
 <img width="337" height="173" alt="image" src="https://github.com/user-attachments/assets/8dbccb75-6d06-4e6a-833d-495798758cd6" />
 <img width="2063" height="792" alt="image" src="https://github.com/user-attachments/assets/5bfdd8f1-1eef-4c3c-b79b-77e158cf420f" />
+<img width="857" height="594" alt="image" src="https://github.com/user-attachments/assets/914d7067-9d4c-4018-a755-731ecda24e8e" />
