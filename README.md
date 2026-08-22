@@ -8,7 +8,7 @@ Server Emulator & Resource Unpacker/Repacker
 * Unlimited FPS (Instead of 30 FPS)
 * Resolution Changer
 * Keybinds Changer
-
+* Matches can now be started solo. No more requiring 2 players.
 
 # Screenshots
 <img width="1568" height="996" alt="image" src="https://github.com/user-attachments/assets/754a2577-88d2-437d-bf40-d5834946284d" />
