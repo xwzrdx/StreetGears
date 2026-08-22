@@ -4,6 +4,7 @@ Server Emulator & Resource Unpacker/Repacker
 
 
 # Client Fixes
+* Remember account details
 * Dutch & English client translations.
 * Unlimited FPS (Instead of 30 FPS)
 * Resolution Changer
