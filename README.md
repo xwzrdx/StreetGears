@@ -1,4 +1,4 @@
-# StreetRacers
+# StreetGears
 
 Server Emulator & Resource Unpacker/Repacker for StreetGears
 
