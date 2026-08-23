@@ -1,6 +1,6 @@
-# StreetGears
+# StreetRacers
 
-Server Emulator & Resource Unpacker/Repacker
+Server Emulator & Resource Unpacker/Repacker for StreetGears
 
 
 # Client Fixes
