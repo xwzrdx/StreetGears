@@ -6,9 +6,10 @@ Server Emulator & Resource Unpacker/Repacker
 # Client Fixes
 * Remember account details
 * Dutch & English client translations.
-* Unlimited FPS (Instead of 30 FPS)
+* Unlimited FPS (Instead of 30 FPS, directly in the game options menu)
 * Resolution Changer
 * Keybinds Changer
+* FOV Changer (directly in the game options menu)
 * Matches can now be started solo. No more requiring 2 players.
 
 # Screenshots
@@ -25,3 +26,4 @@ Server Emulator & Resource Unpacker/Repacker
 <img width="337" height="173" alt="image" src="https://github.com/user-attachments/assets/8dbccb75-6d06-4e6a-833d-495798758cd6" />
 <img width="2063" height="792" alt="image" src="https://github.com/user-attachments/assets/5bfdd8f1-1eef-4c3c-b79b-77e158cf420f" />
 <img width="857" height="594" alt="image" src="https://github.com/user-attachments/assets/914d7067-9d4c-4018-a755-731ecda24e8e" />
+<img width="526" height="478" alt="image" src="https://github.com/user-attachments/assets/be9c78fd-813a-416e-8aed-6b0dd9944efc" />
