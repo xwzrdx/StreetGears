@@ -11,6 +11,7 @@ Server Emulator & Resource Unpacker/Repacker for StreetGears
 * Keybinds Changer
 * FOV Changer (directly in the game options menu)
 * Matches can now be started solo. No more requiring 2 players.
+* Backported content from newer client version
 
 # Screenshots
 <img width="1568" height="996" alt="image" src="https://github.com/user-attachments/assets/754a2577-88d2-437d-bf40-d5834946284d" />
