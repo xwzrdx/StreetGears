@@ -30,3 +30,5 @@ Server Emulator & Resource Unpacker/Repacker for StreetGears
 <img width="841" height="628" alt="image" src="https://github.com/user-attachments/assets/8c5ffc92-5ccf-4be2-b802-10b0e6a964a7" />
 <img width="592" height="495" alt="image" src="https://github.com/user-attachments/assets/74b0280f-d4b6-4c20-ad41-b0a3754f027c" />
 <img width="653" height="517" alt="image" src="https://github.com/user-attachments/assets/96df44a2-710b-4f10-a679-2558cb708dcc" />
+
+``Discord: wzrd0001``
